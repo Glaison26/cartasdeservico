@@ -140,7 +140,7 @@ if ($c_id == '0') {
     </div>
 
     <div class="container -my5">
-
+        
 
         <hr>
         <table class="table display table-bordered tabcartas">

@@ -58,9 +58,11 @@ $c_telefone = $registro['telefone'];
     <br>
 
     <div class="container -my5">
+    
+
         <h7 class="text-primary" Align="justify">
             <h4>
-
+                
                 <label class="text-secondary" class="col-sm-3 col-form-label">Secretaria : </label>
             </h4>
             <p><?php echo $c_secretaria ?></p>
